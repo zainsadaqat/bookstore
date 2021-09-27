@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The Bookstore is a website similar to the "Awesome Books" website built in the previous module. We will create an MVP version of it that allows us to:
+
+- Display a list of books.
+- Add a book.
+- Remove a selected book.
+
+## Steps to run the project in your local machine
+
+Go To Terminal and paste the following command:
+
+`git clone git@github.com:zainsadaqat/redux-bookstore.git`
+
+`cd redux-bookstore`
+
+`npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
